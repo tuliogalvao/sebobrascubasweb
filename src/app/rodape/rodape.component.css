@@ -1,0 +1,14 @@
+.layout-rodape {
+  padding: 40px 0;
+
+  background-color: #232D39;
+
+  color: #fff;
+  text-align: center;
+}
+.navbar-toggle {
+  color: #fff;
+}
+.list-social {
+  list-style-type: none;
+}
